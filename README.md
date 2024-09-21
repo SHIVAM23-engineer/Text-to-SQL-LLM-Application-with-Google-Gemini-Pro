@@ -12,15 +12,3 @@ SQL Database (e.g., MySQL, PostgreSQL) with required tables and data for queryin
 Python 3.7+ installed locally.
 Required Python packages (see requirements.txt).
 
-Installation
-1. Clone the repository:
-git clone https://github.com/your-repo/Text-to-SQL-App.git
-cd Text-to-SQL-App
-
-2. Set up a virtual environment and activate it:
-python -m venv venv
-source venv/bin/activate   # For Windows: venv\Scripts\activate
-
-3. Install dependencies:
-pip install -r requirements.txt
-
