@@ -17,7 +17,7 @@ Installation
 git clone https://github.com/your-repo/Text-to-SQL-App.git
 cd Text-to-SQL-App
 
-2.Set up a virtual environment and activate it:
+2. Set up a virtual environment and activate it:
 python -m venv venv
 source venv/bin/activate   # For Windows: venv\Scripts\activate
 
